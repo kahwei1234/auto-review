@@ -1,0 +1,1 @@
+Can't call "pauseAndClick" on element with selector "//p[contains(.,"DuitNow")]", it is not a function

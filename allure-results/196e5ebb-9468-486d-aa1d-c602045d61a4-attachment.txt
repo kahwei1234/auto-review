@@ -1,0 +1,2 @@
+element click intercepted: Element <p color="#424b57" font-size="1" class="css-8h173 eh4gupi0">...</p> is not clickable at point (464, 619). Other element would receive the click: <div width="100%" class="e1d8l7bt0 css-10uou3j-StyledBox-StyledFlex e70o5gl0">...</div>
+  (Session info: chrome=138.0.7204.158)
