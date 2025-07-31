@@ -1,2 +1,0 @@
-stale element reference: stale element not found in the current frame
-  (Session info: chrome=138.0.7204.158)

@@ -1,1 +1,0 @@
-Can't call "pauseAndClick" on element with selector "//*[@id="__next"]/div/div[2]/div[5]/div/div[1]/div/div[2]/div[2]/div[2]/div[3]/div[4]/a/span/span/span/p", it is not a function
